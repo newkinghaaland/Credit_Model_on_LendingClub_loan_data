@@ -1,0 +1,15 @@
+loan.csv
+loan_filtered.csv
+loan_encoded.csv
+loan_normalized.csv
+loan_onehot.csv
+
+# Local Python environment
+.venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
